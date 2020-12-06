@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/lol">
+        <file>Pictures/1792.jpg</file>
+        <file>Pictures/labarint.jpg</file>
+        <file>Pictures/stena.jpg</file>
+        <file>Pictures/trava.png</file>
+    </qresource>
+</RCC>
